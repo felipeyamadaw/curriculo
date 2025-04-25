@@ -1,0 +1,32 @@
+    body{
+        background-color: black;
+    }
+    
+    h1{
+    text-align: center;
+    color: yellow;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+
+    }
+
+    p{
+        color: yellow;
+        text-align:center;
+        
+    }
+
+    #linguagem {
+        text-align: center;
+        font-family: "Winky Suns";
+        font-size: 25px;
+        background-color: black;
+
+    }
+
+    #marca {
+        text-align: center;
+        font-family: "Winky Suns";
+        font-size: 25px;
+    }
+    
